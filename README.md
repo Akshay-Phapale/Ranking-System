@@ -1,4 +1,9 @@
 # Ranking System for English Premier League Data
+
+**NOTE**
+
+Main project code repository is private. Please check report for more details.
+
 ## Final project for INFO 6205
 Contributors: 
 
